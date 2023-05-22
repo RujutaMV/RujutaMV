@@ -13,4 +13,5 @@ Apart from this, I love to read. Thrillers and murder mysteries (Agatha Christie
 I am open to collaboration work in image processing or creating a new game!
 Feel free to connect with me on GitHub to collaborate on exciting projects or just say hello! 😄 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RujutaMV&show_icons=true&theme=radical)
 
