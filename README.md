@@ -2,6 +2,7 @@
 
 
 I am an electronics engineer,originally from India, currently living in Frankfurt and learning Python online at DCI, Berlin. I'm currently learning more about how to use different Python libraries and frameworks. 
+
 I may be a beginner in Python programming but I have worked for 3 years in other programming languages like C, C++ and MATLAB/Simulink. 
 I have huge interest in data processing more specifically image processing as I have worked previously in this domain.
 
